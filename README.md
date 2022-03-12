@@ -1,1 +1,1 @@
-# Loan-prediction-using-Machine-Learning-and-Python
+# Loan-Eligibilty-Using-Machine-learning-&-Python
