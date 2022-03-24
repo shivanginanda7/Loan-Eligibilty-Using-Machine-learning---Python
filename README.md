@@ -5,9 +5,9 @@ And in the end, to predict whether the loan applicant can repay the loan or not 
 # Attributes in the dataset
 Loan id, Gender, Married, Dependents, Education, Self Employed, Applicant income, Coapplicant income, Loan Amount,Credit History, Property_Area, Loan_Status
 # Model Used 
-1.Support Vector Machine Model with Accuracy Score:0.82
-2.Decision Tree Classifier with Accuracy Score:0.69
-3.Naive Bayes Classifier with Accuracy Score:0.83
+1.Support Vector Machine Model with Accuracy Score:82%
+2.Decision Tree Classifier with Accuracy Score:69%
+3.Naive Bayes Classifier with Accuracy Score:83%
 # Observations
 #Applicants who are graduate and have credit history have more applicant income.
 #Again the applicants who are married and graduated have the more applicant income.
